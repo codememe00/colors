@@ -1,4 +1,4 @@
-# erc721_token_tutorial
+# ERC-721 Token Tutorial - Color Tokens!
 
 ### Set Up 
 First, make sure you have nodejs v8, git, and metamask installed    
