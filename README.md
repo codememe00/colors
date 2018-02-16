@@ -32,7 +32,7 @@ Notice that truffle now added 3 directories: `contracts`, `migrations`, and `tes
 Open up your favorite IDE (I use VisualStudio with a Solidity plugin) and go into the contracts directory. Let's begin! 
 
 5. Create a new file called `ColorsERC721.sol` in the `contracts` directory    
-6. Create a new file called `ColorsERC721Test.sol` in the `test` directory 
+6. Create a new file called `ColorsERC721Test.js` in the `test` directory 
 7. Create a new file called `2_migrate_contract.js` in the `migrations` directory 
 
 8. Follow the vide/workshop steps to implement and test your contract, and once you do, the UI included in this tutorial should work with your contract :) 
