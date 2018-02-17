@@ -39,6 +39,7 @@ Open up your favorite IDE (I use VisualStudio with a Solidity plugin) and go int
 
 Workshop slides: https://docs.google.com/presentation/d/11ebTVQnl_0K9I2WWaUjtV5YPdH9yCOga5kqhZdSI308/edit?ts=5a83a50e#slide=id.g30fce2c670_0_0 
 
-(Video of the workshop will be linked here when it becomes available) 
+Video of the workshop
+https://www.facebook.com/ETHDenver/videos/164729944178073/
 
 Happy hacking! 
